@@ -1,0 +1,22 @@
+{
+  "name": "game-guitar-hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "../src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloR2021/GameGuitarHero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PauloR2021/GameGuitarHero/issues"
+  },
+  "homepage": "https://github.com/PauloR2021/GameGuitarHero#readme"
+}
